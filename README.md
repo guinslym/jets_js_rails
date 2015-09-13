@@ -26,7 +26,7 @@ Into Rails
 
 ## Usage
 
-[Demo, usage, etc of 'jets.js'](http://nexts.github.io/Jets.js/)
+[Demo/usage of jets.js](http://nexts.github.io/Jets.js/)
 
 [![example](http://nexts.github.io/Jets.js/img/demo_hover.gif)](http://nexts.github.io/Jets.js/)
 
