@@ -1,6 +1,6 @@
 # JetsJsRails
 
-TODO: Write a gem description
+Adding jets.js into your Rails app (https://nexts.github.io/Jets.js/)
 
 ## Installation
 
